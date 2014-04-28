@@ -1,7 +1,7 @@
 # encoding: utf-8
 module Babosa
   module Transliterator
-    class Russian < Base
+    class Hebrew < Base
       APPROXIMATIONS = {
         "א" => "A",
         "ב" => "B"
